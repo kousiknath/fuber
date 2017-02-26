@@ -1,0 +1,2 @@
+MINIMUM_CABS_TO_SHOW = 10
+CAB_SEARCH_RADIUS = 20 # in kilometer
